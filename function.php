@@ -6,6 +6,20 @@
  * 
  * 
  **/
-function isOdd(int $x){
+function isOdd(int $x)
+{
 	// TODO : your code here
 }
+
+/**
+ * find max
+ * @param array $numbers
+ * @return int
+ * 
+ * 
+ **/
+function getMax(array $numbers)
+{
+    // TODO : your code here
+}
+

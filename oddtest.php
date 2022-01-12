@@ -5,7 +5,7 @@ require_once 'function.php';
 
 use PHPUnit\Framework\TestCase;
 
-class MyTest extends TestCase
+class OddTest extends TestCase
 {
     
     public function testIsOdd()
