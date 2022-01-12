@@ -1,1 +1,0 @@
-function isOdd(int $nombre): si nombre entré en parametre un pair ou nom
